@@ -56,7 +56,7 @@
     }
   },
   "license": "UNLICENSED",
-  "name": "nestjs-cache",
+  "name": "poc-nestjs-redis-cache",
   "private": true,
   "scripts": {
     "build": "nest build",
